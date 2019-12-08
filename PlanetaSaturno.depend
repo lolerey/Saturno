@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1575751861 source:c:\proyectosc\planetasaturno\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+
+976692172 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
